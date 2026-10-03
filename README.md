@@ -16,5 +16,5 @@ Thank you for visiting.
 
 **Name:**    **Ivo**  
 **Email:**  [ibs124official@gmail.com](mailto:ibs124official@gmail.com)  
-**GitLab:** [https://gitlab.com/ibs124-workspace](https://gitlab.com/ibs124-workspace)  
-**GitHub:** [https://github.com/ibs124](https://github.com/ibs124)  
+**GitLab:** [https://gitlab.com/ivobs-craft](https://gitlab.com/ivobs-craft)  
+**GitHub:** [https://github.com/ivobs](https://github.com/ivobs)  
