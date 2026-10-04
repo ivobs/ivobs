@@ -12,9 +12,10 @@ improved, feel free to open an issue or reach out to me through any of the platf
   
 Thank you for visiting.  
 
-## Contact
+# Contacts
 
-**Name:**    **Ivo**  
-**Email:**  [ibs124official@gmail.com](mailto:ibs124official@gmail.com)  
-**GitLab:** [https://gitlab.com/ivobs-craft](https://gitlab.com/ivobs-craft)  
+**Name:** **Ivo**  
+**Email:**  [ivobs12@gmail.com](mailto:ivobs12@gmail.com)  
 **GitHub:** [https://github.com/ivobs](https://github.com/ivobs)  
+**GitLab Work:** [https://gitlab.com/ivobs-craft](https://gitlab.com/ivobs-craft)  
+**GitLab Profile:** [https://gitlab.com/ivobs](https://gitlab.com/ivobs)  
