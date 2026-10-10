@@ -17,5 +17,4 @@ Thank you for visiting.
 **Name:** **Ivo**  
 **Email:**  [ivobs12@gmail.com](mailto:ivobs12@gmail.com)  
 **GitHub:** [https://github.com/ivobs](https://github.com/ivobs)  
-**GitLab Work:** [https://gitlab.com/ivobs-official](https://gitlab.com/ivobs-official)  
-**GitLab Profile:** [https://gitlab.com/ivobs](https://gitlab.com/ivobs)  
+**GitLab:** [https://gitlab.com/ivobs-official](https://gitlab.com/ivobs-official)  
