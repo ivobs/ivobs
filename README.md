@@ -1,13 +1,13 @@
-# Welcome
+# Welcome!
 
-## Contacts
+## 🔗 Find Me Online
 
-**Name:** **Ivo**  
-**Email:**  [ivobs12@gmail.com](mailto:ivobs12@gmail.com)  
-**GitHub:** [https://github.com/ivobs](https://github.com/ivobs)  
-**GitLab:** [https://gitlab.com/ivobs-official](https://gitlab.com/ivobs-official)  
+- **Name:** **Ivo**  
+- **Email:**  [ivobs12@gmail.com](mailto:ivobs12@gmail.com)  
+- **GitHub:** [https://github.com/ivobs](https://github.com/ivobs)  
+- **GitLab:** [https://gitlab.com/ivobs-official](https://gitlab.com/ivobs-official)  
 
-## About
+## 👋 About
 
 Welcome to my personal development space.
 
@@ -20,4 +20,3 @@ Feedback and suggestions are always welcome. If you notice something that could 
 improved, feel free to open an issue or reach out to me through any of the platforms below.  
   
 Thank you for visiting.  
-
