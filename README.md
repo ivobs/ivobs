@@ -1,5 +1,14 @@
 # Welcome
 
+## Contacts
+
+**Name:** **Ivo**  
+**Email:**  [ivobs12@gmail.com](mailto:ivobs12@gmail.com)  
+**GitHub:** [https://github.com/ivobs](https://github.com/ivobs)  
+**GitLab:** [https://gitlab.com/ivobs-official](https://gitlab.com/ivobs-official)  
+
+## About
+
 Welcome to my personal development space.
 
 This workspace contains learning materials, experiments, projects, and other work  
@@ -12,9 +21,3 @@ improved, feel free to open an issue or reach out to me through any of the platf
   
 Thank you for visiting.  
 
-# Contacts
-
-**Name:** **Ivo**  
-**Email:**  [ivobs12@gmail.com](mailto:ivobs12@gmail.com)  
-**GitHub:** [https://github.com/ivobs](https://github.com/ivobs)  
-**GitLab:** [https://gitlab.com/ivobs-official](https://gitlab.com/ivobs-official)  
